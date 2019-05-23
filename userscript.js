@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  正方教务系统一键评教
 // @author       Sp4ce
-// @match        【这里替换成教务系统网址】/xsjxpj.aspx*
+// @match        *://【这里替换成教务系统网址】/xsjxpj.aspx*
 // ==/UserScript==
 
 (function () {
